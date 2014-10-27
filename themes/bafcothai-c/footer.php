@@ -75,7 +75,7 @@
         <!-- subscribe block -->
         <div class="subscribe_block">
             <h3><span>TRACKING SYSTEM</span></h3>
-            <form method="post" action="http://bafcothai.com/tracker/index.php" enctype="multipart/form-data" target="_blank">
+            <form method="post" action="http://122.155.180.18/Tracking/Default.aspx?FROM=WEBBAFCO" target="_blank">
                 <p><input type="text" id="username" name="username" value="" placeholder="Enter Your User ID ..."/></p>
                 <p><input type="password" id="password" name="password" value="" placeholder="Enter Your Password ..."/></p>
                 <p><input type="submit" value="SIGN IN" /></p>
